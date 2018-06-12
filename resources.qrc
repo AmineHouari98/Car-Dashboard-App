@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml</file>
+        <file>icons/car-64.png</file>
+        <file>icons/car-repair.png</file>
+        <file>icons/engine.png</file>
+        <file>icons/fuel-tank.png</file>
+        <file>icons/meter.png</file>
+        <file>icons/o2-symbol-in-a-cloud.png</file>
+        <file>icons/oxygen.png</file>
+        <file>icons/pedals.png</file>
+        <file>icons/8kyBSQz.png</file>
+        <file>icons/ruT8XoR.png</file>
+        <file>icons/engine (2).png</file>
+        <file>icons/malfunction-indicador.png</file>
+        <file>icons/speed-control.png</file>
+        <file>icons/speedometer (2).png</file>
+        <file>icons/temperature.png</file>
+        <file>icons/icons8-pressure-64.png</file>
+        <file>icons/splash.png</file>
+    </qresource>
+</RCC>
