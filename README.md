@@ -41,8 +41,11 @@ For Android :
 Distant Server :
 
 1- compile and run this project : https://github.com/AmineHouari98/birdge-licence-usto-2018
+
 2- go on settings in the app
+
 3- enter the port and ip address of the server in the "server section" and click connect
+
 4-do the same thing in the receiver side
 
 # License & copyright
