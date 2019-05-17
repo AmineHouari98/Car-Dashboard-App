@@ -23,11 +23,13 @@ car dashboard is a crossplatform application ( android / ios / windows / linux /
 For windows
 
 1- connect your pc to the bluetooth OBD-II
+
 2- start the application if you don't have any input change the COM port in the handler.cpp file
 
 For Android
 
 1- start the app
+
 2- go in the settings and click on "connect bluetooth"
 
 # License & copyright
