@@ -21,7 +21,9 @@ car dashboard is a crossplatform application ( android / ios / windows / linux /
 
 # Note
 
-this app has been tested on a ford fiesta 2013 if a pid is not supported by your car you can modify it in the serial.cpp file (line 691) and bluetoothmodule.cpp (line 701)
+this code is made with QML/VPLAY and Qt C++ (5.10) 
+
+Tested on a ford fiesta 2013 if a pid is not supported by your car you can modify it in the serial.cpp file (line 691) and bluetoothmodule.cpp (line 701)
 
 
 # How to use it
